@@ -6,3 +6,7 @@
 h1 {
   font-family: 'Courier New', Courier, monospace;
 }
+
+.complete {
+  text-decoration: line-through;
+}
